@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ocimarprado" alt="ocimarprado" /></a> </p>
 
-- 🔭 I’m currently working on [Ocyan-Tech — a platform currently in beta, with access restricted to authenticated users.](https:ocyan-tech.com.br)
+- 🔭 I’m currently working on [Ocyan-Tech — a platform currently in beta, with access restricted to authenticated users.](www.ocyan-tech.com.br)
 
 - 🌱 I’m currently learning **Backend development with Node.js and TypeScript, working with SQL and NoSQL databases, API design, authentication, and scalable application architecture.**
 
